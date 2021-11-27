@@ -1,2 +1,2 @@
 # DataStructure-Algorithm
-Study of Data Structure and Algorithm with Python
+Study of Data Structure and Algorithm with Python (Lecture of Fast Campus)
